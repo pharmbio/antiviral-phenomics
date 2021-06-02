@@ -1,3 +1,3 @@
 # antiviral-phenomics
 
-Code snippets to generate plots of principal component analysis and partial least-square discriminant analysis, clustermaps and correllation matrices.
+Code snippets to perform principal component analysis, partial least-square discriminant analysis, and image quality control, generate clustermaps and correlation matrices.
